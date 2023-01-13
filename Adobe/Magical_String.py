@@ -1,0 +1,11 @@
+# Runtime = 87ms (100%) 
+# Memory = 14.5MB (50%)
+
+class Solution(object):
+    def magicalString(self, n):
+        S = [1,2,2]
+        idx = 2
+        while len(S) < n:
+            S += S[idx] * [(3 - S[-1])]
+            idx += 1
+        return S[:n].count(1)
