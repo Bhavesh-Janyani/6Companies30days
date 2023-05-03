@@ -5,9 +5,32 @@ In this repo I am uploading my solutions for 6Companies30Days Challenge by Arsh 
 ## Problem Sets
 
 <details>
+<summary style="font-size: 1.2em">Adobe (15/15)</summary>
+
+Sr  | [Problems](./adobe/README.md)                                                                             | Try It                                                                                                                                                                 | Status
+----|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------
+1   | [Count Nodes Equal to Average of Subtree](./Adobe/Count_Nodes_Equal_to_Average_of_Subtree.py)                                             | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)                                                 | ✅
+2   | [Dungeon Game](./Adobe/Dungeon_Game.py)                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/dungeon-game/)                                                | ✅
+3   | [Fraction to Recurring Decimal](./Adobe/Fraction_to_Recurring_Decimal.py)                          | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/fraction-to-recurring-decimal/)                                          | ✅
+4   | [Increasing Triplet Subsequence](./Adobe/Increasing_Triplet_Subsequence.py)                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/increasing-triplet-subsequence/)                                                             | ✅
+5   | [Knight Probability in Chessboard](./Adobe/Knight_Probability_in_Chessboard.py)                  | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/knight-probability-in-chessboard/)                                     | ✅
+6   | [K-th Smallest in Lexicographical Order](./Adobe/Kth_Smallest_in_Lexicographical_Order.py)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)                                                 | ✅
+7   | [Magical String](./Adobe/Magical_String.py)                                                         | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/magical-string/)                                                                 | ✅
+8   | [Maximum Matrix Sum](./Adobe/Maximum_Matrix_Sum.py)                                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/maximum-matrix-sum/)                                                                    | ✅
+9   | [Minimum Genetic Mutation](./Adobe/Minimum_Genetic_Mutation.py)  | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/minimum-genetic-mutation/)                   | ✅
+10  | [Non-negative Integers without Consecutive Ones](./Adobe/Nonnegative_Integers_without_Consecutive_Ones.py)                                                 | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)   | ✅
+11  | [Number of Matching Subsequences](./Adobe/Number_of_Matching_Subsequences.py)                                                       | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-matching-subsequences/)                                                             | ✅
+12  | [Number of People Aware of a Secret](./Adobe/Number_of_People_Aware_of_a_Secret.py)                                                     | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)                                                    | ✅
+13  | [Query Kth Smallest Trimmed Number](./Adobe/Query_Kth_Smallest_Trimmed_Number.py)      | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)                                       | ✅
+14  | [Shortest Unsorted Continuous Subarray](./Adobe/Shortest_Unsorted_Continuous_Subarray.py)                     | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)                              | ✅
+15  | [Stock Price Fluctuation](./Adobe/Stock_Price_Fluctuation.py)                         | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/stock-price-fluctuation/)               | ✅
+
+</details>
+
+<details>
 <summary style="font-size: 1.2em">Goldman Sachs (15/15)</summary>
 
-Sr  | [Problems](./goldman-sachs/README.md)                                                                                     | TryIt                                                                                                                                     | Status
+Sr  | [Problems](./goldman-sachs/README.md)                                                                                     | Try It                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [All Elements in Two Binary Search Trees](./GoldmanSachs/All_Elements_in_Two_Binary_Search_Trees.py)                                                     | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)                              | ✅
 2   | [Count Good Triplets in an Array](./GoldmanSachs/Count_Good_Triplets_in_an_Array.py)                                                   | [![Problem Link](./assets/lc.svg)]([https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/](https://leetcode.com/problems/count-good-triplets-in-an-array/))                            | ✅
@@ -70,29 +93,6 @@ Sr  | [Problems](./microsoft/README.md)                                         
 13  | [Bridge edge in a graph](./microsoft/bridge-edge-in-graph.md)                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)                                   | ✅
 14  | [Minimum steps to destination](./microsoft/minimum-steps-to-destination.md)                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/)   | ✅
 15  | [Alien Dictionary](./microsoft/alien-dictionary.md)                                                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/)                                      | ✅
-
-</details>
-
-<details>
-<summary style="font-size: 1.2em">Adobe (15/15)</summary>
-
-Sr  | [Problems](./adobe/README.md)                                                                             | TryIt                                                                                                                                                                 | Status
-----|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------
-1   | [Subarray with given sum](./adobe/subarray-with-given-sum.md)                                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)                                                 | ✅
-2   | [Longest Arithmetic Progression](./adobe/longest-arithmetic-progression.md)                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/)                                                | ✅
-3   | [No. of distict Words with k max contiguous vowels](./adobe/kmax-cont-vowels.md)                          | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1/)                                          | ✅
-4   | [Partition Equal Subset Sum](./adobe/subset-sum-problem.md)                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)                                                             | ✅
-5   | [Express as sum of power of natural numbers](./adobe/sum-of-power-of-natural-numbers.md)                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1)                                     | ✅
-6   | [Generate Parentheses](./adobe/generate-parentheses.md)                                                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1/)                                                 | ✅
-7   | [Pots of Gold Game](./adobe/pots-of-gold-game.md)                                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1/)                                                                 | ✅
-8   | [Implement Atoi](./adobe/implement-atoi.md)                                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/implement-atoi/1/)                                                                    | ✅
-9   | [Next higher palindromic number using same digits](./adobe/next-higher-palindromic-number-same-digit.md)  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/)                   | ✅
-10  | [Winner of an election](./adobe/winner-of-an-election.md)                                                 | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1/)   | ✅
-11  | [Amend The Sentence](./adobe/amend-the-sentence.md)                                                       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/amend-the-sentence3235/1)                                                             | ✅
-12  | [Leaders in an array](./adobe/leaders-in-an-array.md)                                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/)                                                    | ✅
-13  | [Minimum operations to convert array A to B](./adobe/minimum-insertions-to-make-two-arrays-equal.md)      | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/)                                       | ✅
-14  | [Smallest range in K lists](./adobe/smallest-range-covering-elements-from-k-lists.md)                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/)                              | ✅
-15  | [Most Recent Library](./adobe/most-recent-library.md)                                                     |                                                                                                                                                                       | ✅
 
 </details>
 
