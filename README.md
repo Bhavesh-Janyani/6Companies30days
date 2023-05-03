@@ -50,6 +50,29 @@ Sr  | [Problems](./Amazon)                                                      
 
 </details>
 
+<details>
+<summary style="font-size: 1.2em">Walmart (15/15)</summary>
+
+Sr  | [Problems](./Flipkart)                                                                                                                             | Try It                                                                                                                           | Status
+----|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|--------
+1   | [Check If a String Contains All Binary Codes of Size K](./Flipkart/Check_If_String_Contains_All_Binary_Codes_of_Size_K.py)                                                           | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)                                | ✅
+2   | [Closest Prime Numbers in Range](./Flipkart/Closest_Prime_Numbers_in_Range.py)                                                                                                 | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/closest-prime-numbers-in-range/)                                                   | ✅
+3   | [Custom Sort String](./Flipkart/Custom_Sort_String.py) | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/custom-sort-string/)   | ✅
+4   | [Distant Barcodes](./Flipkart/Distant_Barcodes.py)                                                                         | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/distant-barcodes/)                  | ✅
+5   | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./Flipkart/Find_City_With_Smallest_Number_of_Neighbors_at_Threshold_Distance.py)                                                                           | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)                       | ✅
+6   | [Find in Mountain Array](./Flipkart/Find_in_Mountain_Array.py)                                                                                     | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/find-in-mountain-array/)                 | ✅
+7   | [Find the Winner of the Circular Game](./Flipkart/Find_the_Winner_of_the_Circular_Game.py)                                                             | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)                | ✅
+8   | [House Robber III](./Flipkart/House_Robber_III.py)                                                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/house-robber-iii/)                     | ✅
+9   | [Max Area of Island](./Flipkart/Max_Area_of_Island.py)                                                       | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/max-area-of-island/)                              | ✅
+10  | [New 21 Game](./Flipkart/New_21_Game.py)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/new-21-game/)                            | ✅
+11  | [Number of Ways to Separate Numbers](./Flipkart/Number_of_Ways_to_Separate_Numbers.py)                                                           | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-ways-to-separate-numbers/)                                | ✅
+12  | [Partition to K Equal Sum Subsets](./Flipkart/Partition_to_K_Equal_Sum_Subsets.py)                                                             | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)                                 | ✅
+13  | [Remove Zero Sum Consecutive Nodes from Linked List](./Flipkart/Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.py)                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)                    | ✅
+14  | [Shopping Offers](./Flipkart/Shopping_Offers.py)                                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/shopping-offers/)        | ✅
+15  | [Top K Frequent Words](./Flipkart/Top_K_Frequent_Words.py)                                                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/top-k-frequent-words/)                                          | ✅
+
+</details>
+
 
 <details>
 <summary style="font-size: 1.2em">Goldman Sachs (15/15)</summary>
@@ -121,25 +144,3 @@ Sr  | Problems                                                                  
 </details>
 
 
-<details>
-<summary style="font-size: 1.2em">Walmart (15/15)</summary>
-
-Sr  | Problems                                                                                                                              | TryIt                                                                                                                           | Status
-----|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|--------
-1   | [Path with Maximum Probability](./walmart/path-with-maximum-probability.md)                                                           | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/path-with-maximum-probability/)                                | ✅
-2   | [Stone Game](./walmart/stone-game.md)                                                                                                 | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/stone-game/)                                                   | ✅
-3   | [Remove Colored Pieces if Both Neighbors are the Same Color](./walmart/remove-colored-pieces-if-both-neighbors-are-the-same-color.md) | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)   | ✅
-4   | [Number of Unique Paths](./walmart/number-of-unique-paths.md)                                                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/)                  | ✅
-5   | [Transform to Sum Tree](./walmart/transform-to-sum-tree.md)                                                                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/)                       | ✅
-6   | [Power Of Numbers](./walmart/power-of-numbers.md)                                                                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/)                 | ✅
-7   | [Sorted subsequence of size 3](./walmart/sorted-subsequence-of-size-3.md)                                                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/)                | ✅
-8   | [Maximum Height Tree](./walmart/maximum-height-tree.md)                                                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/)                     | ✅
-9   | [Guess Number Higher or Lower II](./walmart/guess-number-higher-or-lower-ii.md)                                                       | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)                              | ✅
-10  | [Generate Random Point in a Circle](./walmart/generate-random-point-in-a-circle.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/generate-random-point-in-a-circle/)                            | ✅
-11  | [Maximum Performance of a Team](./walmart/maximum-performance-of-a-team.md)                                                           | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/maximum-performance-of-a-team/)                                | ✅
-12  | [Find Array Given Subset Sums](./walmart/find-array-given-subset-sums.md)                                                             | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/find-array-given-subset-sums/)                                 | ✅
-13  | [Find the Kth Largest Integer in the Array](./walmart/find-the-kth-largest-integer-in-the-array.md)                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)                    | ✅
-14  | [Largest number in K swaps](./walmart/largest-number-in-k-swaps.md)                                                                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/)        | ✅
-15  | [Divide Two Integers](./walmart/divide-two-integers.md)                                                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/divide-two-integers/)                                          | ✅
-
-</details>
