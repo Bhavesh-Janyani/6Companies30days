@@ -51,7 +51,7 @@ Sr  | [Problems](./Amazon)                                                      
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Walmart (15/15)</summary>
+<summary style="font-size: 1.2em">Flipkart (15/15)</summary>
 
 Sr  | [Problems](./Flipkart)                                                                                                                             | Try It                                                                                                                           | Status
 ----|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|--------
@@ -100,7 +100,7 @@ Sr  | [Problems](./GoldmanSachs)                                                
 <details>
 <summary style="font-size: 1.2em">Microsoft (15/15)</summary>
 
-Sr  | [Problems](./microsoft/README.md)                                                                     | TryIt                                                                                                                                     | Status
+Sr  | [Problems](./Microsoft)                                                                     | Try It                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------                |-------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [Minimum sum partition](./microsoft/minimum-sum-partition.md)                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)                             | ✅
 2   | [Prerequisite Tasks](./microsoft/prerequisite-tasks.md)                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)                                    | ✅
@@ -121,9 +121,9 @@ Sr  | [Problems](./microsoft/README.md)                                         
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Intuit (15/15)</summary>
+<summary style="font-size: 1.2em">Google (15/15)</summary>
 
-Sr  | Problems                                                                                          | TryIt                                                                                                                     | Status
+Sr  | [Problems](./Google)                                                                                          | Try It                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------
 1   | [Minimum sum partition](./intuit/minimum-sum-partition.md)                                        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)             | ✅
 2   | [Word Search](./intuit/word-search.md)                                                            | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/word-search/1/)                           | ✅
