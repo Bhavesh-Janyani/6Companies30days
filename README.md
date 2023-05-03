@@ -28,6 +28,30 @@ Sr  | [Problems](./Adobe)                                                       
 </details>
 
 <details>
+<summary style="font-size: 1.2em">Amazon (15/15)</summary>
+
+Sr  | [Problems](./Amazon)                                                                                | Try It                                                                                                                                     | Status
+----|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
+1   | [Cheapest Flights Within K Stops](./Amazon/Cheapest_Flights_Within_K_Stops.py)                                                                  | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/cheapest-flights-within-k-stops/)                                     | ✅
+2   | [Destroying Asteroids](./Amazon/Destroying_Asteroids.py)                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/destroying-asteroids/)                                              | ✅
+3   | [Dota2 Senate](./Amazon/Dota2_Senate.py)                                                    | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/dota2-senate/)              | ✅
+4   | [Generate Random Point in a Circle](./Amazon/Generate_Random_Point_in_Circle.py)                       | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/generate-random-point-in-a-circle/)           | ✅
+5   | [Last Moment Before All Ants Fall Out of a Plank](./Amazon/Last_Moment_Before_All_Ants_Fall_Out_of_Plank.py)                                                                | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)                                   | ✅
+6   | [Maximum Length of Repeated Subarray](./Amazon/Maximum_Length_of_Repeated_Subarray.py)                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)                 | ✅
+7   | [Maximum Subarray Min-Product](./Amazon/Maximum_Subarray_MinProduct.py)            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/maximum-subarray-min-product/)          | ✅
+8   | [Maximum Sum of an Hourglass](./Amazon/Maximum_Sum_of_Hourglass.py)   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/maximum-sum-of-an-hourglass/)      | ✅
+9   | [Most Popular Video Creator](./Amazon/Most_Popular_Video_Creator.py)                                                                | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/most-popular-video-creator/)                                   | ✅
+10  | [Number of Ways to Reach a Position After Exactly k Steps](./Amazon/Number_Ways_to_Reach_Position_After_Exactly_k_Steps.py)                                                  | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/)                             | ✅
+11  | [Number of Matching Subsequences](./Amazon/Number_of_Matching_Subsequences.py)                | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-matching-subsequences/)                | ✅
+12  | [Shuffle an Array](./Amazon/Shuffle_an_Array.py)                  | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/shuffle-an-array/)            | ✅
+13  | [Split a String Into the Max Number of Unique Substrings](./Amazon/Split_String_Into_Max_Number_of_Unique_Substrings.py)                                                                | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)                                                        | ✅
+14  | [Top K Frequent Words](./Amazon/Top_K_Frequent_Words.py)                                                                      | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/top-k-frequent-words/)                                          | ✅
+15  | [Tweet Counts Per Frequency](./Amazon/Tweet_Counts_Per_Frequency.py)    | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/tweet-counts-per-frequency/)         | ✅
+
+</details>
+
+
+<details>
 <summary style="font-size: 1.2em">Goldman Sachs (15/15)</summary>
 
 Sr  | [Problems](./GoldmanSachs)                                                                                     | Try It                                                                                                                                     | Status
@@ -47,29 +71,6 @@ Sr  | [Problems](./GoldmanSachs)                                                
 13  | [Number of People Aware of a Secret](./GoldmanSachs/Number_of_People_Aware_of_a_Secret.py)                                                             | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)                                  | ✅
 14  | [Split Array into Consecutive Subsequences](./GoldmanSachs/Split_Array_into_Consecutive_Subsequences.py)                                                 | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)                                              | ✅
 15  | [Valid Square](./GoldmanSachs/Valid_Square.py)                         | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/valid-square/)               | ✅
-
-</details>
-
-<details>
-<summary style="font-size: 1.2em">Amazon (15/15)</summary>
-
-Sr  | [Problems](./amazon/README.md)                                                                                | TryIt                                                                                                                                     | Status
-----|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
-1   | [Maximum Profit](./amazon/maximum-profit.md)                                                                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1)                                     | ✅
-2   | [Longest Mountain in Array](./amazon/longest-mountain-in-array.md)                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/longest-mountain-in-array/)                                              | ✅
-3   | [IPL 2021 - Match Day 2](./amazon/ipl-2021-match-day-2.md)                                                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/)              | ✅
-4   | [Brackets in Matrix Chain Multiplication](./brackets-in-matrix-chain-multiplication.md)                       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1/)           | ✅
-5   | [Phone directory](./amazon/phone-directory.md)                                                                | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/phone-directory4628/1/)                                   | ✅
-6   | [Maximum of all subarrays of size k](./amazon/maximum-of-all-subarrays-of-size.md)                            | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)                 | ✅
-7   | [First non-repeating character in a stream](./amazon/first-non-repeating-character-in-a-stream.md)            | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)          | ✅
-8   | [Count ways to N'th Stair(Order does not matter)](./amazon/count-ways-to-nth-stairorder-does-not-matter.md)   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/)      | ✅
-9   | [Is Sudoku Valid](./amazon/is-sudoku-valid.md)                                                                | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/)                                   | ✅
-10  | [Nuts and Bolts Problem](./amazon/nuts-and-bolts-problem.md)                                                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1)                             | ✅
-11  | [Serialize and Deserialize a Binary Tree](./amazon/serialize-and-deserialize-a-binary-tree.md)                | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)                | ✅
-12  | [Column name from a given column number](./amazon/column-name-from-a-given-column-number.md)                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/)            | ✅
-13  | [Rotting Oranges](./amazon/rotting-oranges.md)                                                                | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/rotting-oranges/)                                                        | ✅
-14  | [Burning Tree](./amazon/burning-tree.md)                                                                      | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/burning-tree/1/)                                          | ✅
-15  | [Delete N nodes after M nodes of a linked list](./amazon/delete-n-nodes-after-m-nodes-of-a-linked-list.md)    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)         | ✅
 
 </details>
 
