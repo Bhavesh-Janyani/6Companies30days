@@ -98,49 +98,48 @@ Sr  | [Problems](./GoldmanSachs)                                                
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Microsoft (15/15)</summary>
-
-Sr  | [Problems](./Microsoft)                                                                     | Try It                                                                                                                                     | Status
-----|---------------------------------------------------------------------------------------                |-------------------------------------------------------------------------------------------------------------------------------------------|---------
-1   | [Minimum sum partition](./microsoft/minimum-sum-partition.md)                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)                             | ✅
-2   | [Prerequisite Tasks](./microsoft/prerequisite-tasks.md)                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)                                    | ✅
-3   | [Rotate by 90 degree](./microsoft/rotate-by-90-degree.md)                                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/)                               | ✅
-4   | [Spirally traversing a matrix](./microsoft/spirally-traversing-a-matrix.md)                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)               | ✅
-5   | [Stock span problem](./microsoft/stock-span-problem.md)                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)                          | ✅
-6   | [Possible Words From Phone Digits](./microsoft/possible-words-from-phone-digits.md)                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/)           | ✅
-7   | [Unit Area of largest region of 1's](./microsoft/length-of-largest-region-of-1s.md)                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/)             | ✅
-8   | [Connect Nodes at Same Level](./microsoft/connect-nodes-at-same-level.md)                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/)                           | ✅
-9   | [Count Number of SubTrees having given Sum](./microsoft/count-number-of-subtrees-having-given-sum.md) | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/)             | ✅
-10  | [Stickler Thief](./microsoft/stickler-theif.md)                                                       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/)                             | ✅
-11  | [Generate Binary Numbers](./microsoft/generate-binary-numbers.md)                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/)                    | ✅
-12  | [Find All Four Sum Numbers](./microsoft/find-all-four-sum-numbers.md)                                 | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)                          | ✅
-13  | [Bridge edge in a graph](./microsoft/bridge-edge-in-graph.md)                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)                                   | ✅
-14  | [Minimum steps to destination](./microsoft/minimum-steps-to-destination.md)                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/)   | ✅
-15  | [Alien Dictionary](./microsoft/alien-dictionary.md)                                                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/)                                      | ✅
-
-</details>
-
-<details>
 <summary style="font-size: 1.2em">Google (15/15)</summary>
 
 Sr  | [Problems](./Google)                                                                                          | Try It                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------
-1   | [Minimum sum partition](./intuit/minimum-sum-partition.md)                                        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)             | ✅
-2   | [Word Search](./intuit/word-search.md)                                                            | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/word-search/1/)                           | ✅
-3   | [Find the missing no in string](./intuit/missing-no-in-string.md)                                 | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1/)         | ✅
-4   | [Largest number in K swaps](./intuit/largest-number-in-k-swaps.md)                                | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1)   | ✅
-5   | [Split Array Largest Sum](./intuit/split-array-largest-sum.md)                                    | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/split-array-largest-sum/)                                | ✅
-6   | [Find in Mountain Array](./intuit/find-in-mountain-array.md)                                      | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/find-in-mountain-array/)                                 | ✅
-7   | [Capacity To Ship Packages Within D Days](./intuit/capacity-to-ship-packages-within-d-days.md)    | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)                | ✅
-8   | [Number of Boomerangs](./intuit/number-of-boomerangs.md)                                          | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-boomerangs/)                                   | ✅
-9   | [Pacific Atlantic Water Flow](./intuit/pacific-atlantic-water-flow.md)                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/pacific-atlantic-water-flow/)                            | ✅
-10  | [Number of Provinces](./intuit/number-of-provinces.md)                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-provinces/)                                    | ✅
-11  | [Construct Quad Tree](./intuit/construct-quad-tree.md)                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/construct-quad-tree/)                                    | ✅
-12  | [Course Schedule II](./intuit/course-schedule-ii.md)                                              | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/course-schedule-ii/)                                     | ✅
-13  | [Minimum Swaps to Arrange a Binary Grid](./intuit/min-swaps-to-arrange-binary-grid.md)            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/)                 | ✅
-14  | [As Far from Land as Possible](./intuit/as-far-from-land-as-possible.md)                          | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/as-far-from-land-as-possible/)                           | ✅
-15  | [Koko Eating Bananas](./intuit/koko-eating-bananas.md)                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/koko-eating-bananas/)                                    | ✅
+1   | [Distinct Echo Substrings](./Google/Distinct_Echo_Substrings.py)                                        | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/distinct-echo-substrings/)             | ✅
+2   | [Fruit Into Baskets](./Google/Fruit_Into_Baskets.py)                                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/fruit-into-baskets/)                           | ✅
+3   | [K Divisible Elements Subarrays](./Google/K_Divisible_Elements_Subarrays.py)                                 | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/k-divisible-elements-subarrays/)         | ✅
+4   | [Matrix Block Sum](./Google/Matrix_Block_Sum.py)                                | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/matrix-block-sum/)   | ✅
+5   | [Maximum Compatibility Score Sum](./Google/Maximum_Compatibility_Score_Sum.py)                                    | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/maximum-compatibility-score-sum/)                                | ✅
+6   | [Maximum Consecutive Floors Without Special Floors](./Google/Maximum_Consecutive_Floors_Without_Special_Floors.py)                                      | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/)                                 | ✅
+7   | [Maximum Good People Based on Statements](./Google/Maximum_Good_People_Based_on_Statements.py)    | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/maximum-good-people-based-on-statements/)                | ✅
+8   | [Maximum Number of Coins You Can Get](./Google/Maximum_Number_of_Coins_You_Can_Get.py)                                          | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)                                   | ✅
+9   | [Network Delay Time](./Google/Network_Delay_Time.py)                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/network-delay-time/)                            | ✅
+10  | [Number of Closed Islands](./Google/Number_of_Closed_Islands.py)                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-closed-islands/)                                    | ✅
+11  | [Random Pick with Weight](./Google/Random_Pick_with_Weight.py)                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/random-pick-with-weight/Google/Restore_IP_Addresses.py)                                    | ✅
+12  | [Restore IP Addresses](./Google/Restore_IP_Addresses.py)                                              | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/restore-ip-addresses/)                                     | ✅
+13  | [Sort an Array](./Google/Sort_an_Array.py)            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/sort-an-array/)                 | ✅
+14  | [Strictly Palindromic Number](./Google/Strictly_Palindromic_Number.py)                          | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/strictly-palindromic-number/)                           | ✅
+15  | [Swim in Rising Water](./Google/Swim_in_Rising_Water.py)                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/swim-in-rising-water/)                                    | ✅
 
 </details>
 
+<details>
+<summary style="font-size: 1.2em">Microsoft (15/15)</summary>
+
+Sr  | [Problems](./Microsoft)                                                                     | Try It                                                                                                                                     | Status
+----|---------------------------------------------------------------------------------------                |-------------------------------------------------------------------------------------------------------------------------------------------|---------
+1   | [Airplane Seat Assignment Probability](./Microsoft/Airplane_Seat_Assignment_Probability.py)                                         | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/airplane-seat-assignment-probability/)                             | ✅
+2   | [Bulls and Cows](./Microsoft/Bulls_and_Cows.py)                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/bulls-and-cows/)                                    | ✅
+3   | [Combination Sum III](./Microsoft/Combination_Sum_III.py)                                             | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/combination-sum-iii/)                               | ✅
+4   | [Course Schedule](./Microsoft/Course_Schedule.py)                           | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/course-schedule/)               | ✅
+5   | [Evaluate Reverse Polish Notation](./Microsoft/Evaluate_Reverse_Polish_Notation.py)                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                          | ✅
+6   | [Largest Divisible Subset](./Microsoft/Largest_Divisible_Subset.py)                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/largest-divisible-subset/)           | ✅
+7   | [Longest Happy Prefix](./Microsoft/Longest_Happy_Prefix.py)                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/longest-happy-prefix/)             | ✅
+8   | [Minimum Deletions to Make Array Divisible](./Microsoft/Minimum_Deletions_to_Make_Array_Divisible.py)                             | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)                           | ✅
+9   | [Most Profitable Path in a Tree](./Microsoft/Most_Profitable_Path_in_a_Tree.py) | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/most-profitable-path-in-a-tree/)             | ✅
+10  | [Number of Pairs Satisfying Inequality](./Microsoft/Number_of_Pairs_Satisfying_Inequality.py)                                                       | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)                             | ✅
+11  | [Number of Substrings Containing All Three Characters](./Microsoft/Number_of_Substrings_Containing_All_Three_Characters.py)                                     | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)                    | ✅
+12  | [Number of Ways to Arrive at Destination](./Microsoft/Number_of_Ways_to_Arrive_at_Destination.py)                                 | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)                          | ✅
+13  | [Perfect Rectangle](./Microsoft/Perfect_Rectangle.py)                                         | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/perfect-rectangle/)                                   | ✅
+14  | [Rotate Function](./Microsoft/Rotate_Function.py)                           | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/rotate-function/)   | ✅
+15  | [Shortest Unsorted Continuous Subarray](./Microsoft/Shortest_Unsorted_Continuous_Subarray.py)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)                                      | ✅
+
+</details>
 
