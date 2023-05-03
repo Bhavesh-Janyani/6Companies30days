@@ -7,7 +7,7 @@ In this repo I am uploading my solutions for 6Companies30Days Challenge by Arsh 
 <details>
 <summary style="font-size: 1.2em">Adobe (15/15)</summary>
 
-Sr  | [Problems](./adobe/README.md)                                                                             | Try It                                                                                                                                                                 | Status
+Sr  | [Problems](./Adobe)                                                                             | Try It                                                                                                                                                                 | Status
 ----|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [Count Nodes Equal to Average of Subtree](./Adobe/Count_Nodes_Equal_to_Average_of_Subtree.py)                                             | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)                                                 | ✅
 2   | [Dungeon Game](./Adobe/Dungeon_Game.py)                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/dungeon-game/)                                                | ✅
@@ -30,7 +30,7 @@ Sr  | [Problems](./adobe/README.md)                                             
 <details>
 <summary style="font-size: 1.2em">Goldman Sachs (15/15)</summary>
 
-Sr  | [Problems](./goldman-sachs/README.md)                                                                                     | Try It                                                                                                                                     | Status
+Sr  | [Problems](./GoldmanSachs)                                                                                     | Try It                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [All Elements in Two Binary Search Trees](./GoldmanSachs/All_Elements_in_Two_Binary_Search_Trees.py)                                                     | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)                              | ✅
 2   | [Count Good Triplets in an Array](./GoldmanSachs/Count_Good_Triplets_in_an_Array.py)                                                   | [![Problem Link](./assets/lc.svg)]([https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/](https://leetcode.com/problems/count-good-triplets-in-an-array/))                            | ✅
